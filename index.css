@@ -1,0 +1,147 @@
+
+.main {
+	width: 1000px;
+	height: 540px;
+	background-color: #F44336;
+}
+.row1 {
+	width: 1000px;
+	height: 100px;
+	background-color: #E91E63;
+	font-size: 50px;
+	text-align: center;
+}
+.row2 {
+	width: 1000px;
+	height: 40px;
+	background-color: #9C27B0;
+	color: white;
+	text-align: center;
+	font-size: 25px;
+}
+.row2-col1{
+	width: 200px;
+	height: 40px;
+	background-color: #673AB7;
+	float: left;
+}
+.row2-col2{
+	width: 200px;
+	height: 40px;
+	background-color: #3F51B5;
+	float: left;
+}
+.row2-col3{
+	width: 200px;
+	height: 40px;
+	background-color: #FFC107;
+	float: left;
+}
+.row2-col4{
+	width: 200px;
+	height: 40px;
+	background-color: #2196F3;
+	float: left;
+}
+.row2-col5{
+	width: 200px;
+	height: 40px;
+	background-color: #03A9F4;
+	float: left;
+}
+.row3 {
+	width: 1000px;
+	height: 200px;
+	background-color: #9E9E9E;
+}
+.row3-col1 {
+	width: 250px;
+	height: 200px;
+	background-color: #FFEB3B;
+	float: left;
+	text-align: center;
+	font-size: 25px;
+}
+.row3-col2 {
+	width: 750px;
+	height: 200px;
+	background-color: #8BC34A;
+	float: left;
+}
+.row3-col1-row1 {
+	width: 250px;
+	height: 40px;
+	background-color: #03A9F4;
+}
+.row3-col1-row2 {
+	width: 250px;
+	height: 40px;
+	background-color: #2196F3;
+}
+.row3-col1-row3 {
+	width: 250px;
+	height: 40px;
+	background-color: #FFC107;
+}
+.row3-col1-row4 {
+	width: 250px;
+	height: 40px;
+	background-color: #3F51B5;
+}
+.row3-col1-row5 {
+	width: 250px;
+	height: 40px;
+	background-color: #673AB7;
+}
+.img {
+	width: 750px;
+	height: 200px;
+}
+.row4 {
+	width: 1000px;
+	height: 50px;
+	background-color: blue;
+	color: white;
+	font-size: 50px;
+	text-align: center;
+}
+.row5 {
+	width: 1000px;
+	height: 100px;
+	background-color: #795548;
+}
+.row5-col1 {
+	width: 330px;
+	height: 100px;
+	float: left;
+	background-color: #009688;
+}
+.row5-col2 {
+	width: 330px;
+	height: 100px;
+	float: left;
+	background-color: #FF5722;
+}
+.row5-col3 {
+	width: 330px;
+	height: 100px;
+	float: left;
+}
+.row6 {
+	width: 1000px;
+	height: 50px;
+	text-align: center;
+	font-size: 30px;
+}
+.img1 {
+	width: 330px;
+	height: 100px;
+}
+.img2 {
+	width: 330px;
+	height: 100px;
+}
+.img3 {
+	width: 330px;
+	height: 100px;
+}
