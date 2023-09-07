@@ -1,0 +1,72 @@
+body {
+	background-color: gray;
+}
+.main-form {
+	width: 488px;
+	height: 530px;
+	background-color: white;
+	border: 2px solid black;
+	text-align: left;
+	border-radius: 30px;
+}
+.h-1 {
+	padding-top: 50px;
+	padding-left: 50px;
+	font-size: 30px;
+	font-family: 'arial';
+}
+.input-1 {
+	margin-top: 20px;
+	margin-left: 50px;
+	height: 45px;
+	width: 370px;
+	font-size: 16px;
+	border-radius: 10px;
+}
+.input-2 {
+	margin-top: 20px;
+	margin-left: 50px;
+	height: 45px;
+	width: 370px;
+	font-size: 16px;
+	border-radius: 10px;
+}
+.input-3 {
+	margin-top: 20px;
+	margin-left: 50px;
+	height: 45px;
+	width: 370px;
+	font-size: 16px;
+	border-radius: 10px;
+}
+.input-4 {
+	margin-top: 20px;
+	margin-left: 50px;
+	height: 45px;
+	width: 380px;
+	font-size: 18px;
+	border-radius: 10px;
+	background-color: pink;
+	border: none;
+	color: white;
+}
+.input-4:hover {
+	background-color: red;
+}
+.have {
+	margin-left: 50px;
+	float: left;
+}
+.link {
+	float: left;
+	margin-top: 11px;
+}
+.link:hover {
+	color: red;
+}
+.accept {
+	margin-left: 50px;
+}
+.hove:hover {
+	color: red;
+}
